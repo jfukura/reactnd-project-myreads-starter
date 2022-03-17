@@ -1,6 +1,7 @@
 # Book Tracker
 
 > #### [Live Demo Version](https://jfukura.github.io/reactnd-project-myreads-starter/)
+> FYI, this is currently brokesauce...
 
 ## TL;DR
 
