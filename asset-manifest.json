@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactnd-project-myreads-starter/static/css/main.2f43edae.css",
+    "main.js": "/reactnd-project-myreads-starter/static/js/main.8d607368.js",
+    "index.html": "/reactnd-project-myreads-starter/index.html",
+    "static/media/arrow-back.svg": "/reactnd-project-myreads-starter/static/media/arrow-back.392bc09c6a87f6314e8d.svg",
+    "static/media/add.svg": "/reactnd-project-myreads-starter/static/media/add.b7fdf29fd5e2a3fea1d3.svg",
+    "main.2f43edae.css.map": "/reactnd-project-myreads-starter/static/css/main.2f43edae.css.map",
+    "main.8d607368.js.map": "/reactnd-project-myreads-starter/static/js/main.8d607368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f43edae.css",
+    "static/js/main.8d607368.js"
+  ]
+}
